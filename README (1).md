@@ -1,7 +1,7 @@
 Kevin Alejandro Vega Medina //
 Nicole Natalia Castillo Abril
 
-# Avance Proyecto de Detección de Monedas y Automatización de Hardware
+# ACTIVIDAD 9
 
 Este repositorio documenta el desarrollo del proyecto a trabjar, se muestran avances en la detecci´pon de monedas ademas de ciertos avances fisicos.
 
@@ -24,3 +24,17 @@ La fase práctica del proyecto incluye el ensamblaje de dos componentes mecánic
 
 ## Integración y Próximos Pasos
 La siguiente fase del proyecto requiere la comunicación directa entre los componentes. El objetivo es que el programa de visión artificial controle el flujo de la banda transportadora y envíe instrucciones de navegación al carro robótico basándose en los datos del escaneo de las monedas.
+
+
+
+
+# ACTIVIDAD 10 Y 11
+
+En esta sección damos a entender que se cumplio con hacer mover la banda transportadora, en cuanto a otros avances se veran a continuación:
+
+## Avances Físicos
+Como nuevo avance, se realizo la pista para el carro:
+![Prototipo de pista](Imagenes/banda.jpg)
+
+- **Selección de monedas** Se implemento un servomotor que gira en dirección a cada cubiculo en funcion de la moneda detectada
+![Prototipo de Selector](Imagenes/banda.jpg)
