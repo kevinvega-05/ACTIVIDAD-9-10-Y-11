@@ -33,8 +33,15 @@ La siguiente fase del proyecto requiere la comunicación directa entre los compo
 En esta sección damos a entender que se cumplio con hacer mover la banda transportadora, en cuanto a otros avances se veran a continuación:
 
 ## Avances Físicos
-Como nuevo avance, se realizo la pista para el carro:
+Como nuevo avance, se realizaron distintas proyecciones en cuanto a la parte física:
+
+-**Pista** Se creo la pista a utilizar para el proyecto
 ![Prototipo de pista](Imagenes/pista.jpg)
 
 - **Selección de monedas** Se implemento un servomotor que gira en dirección a cada cubiculo en funcion de la moneda detectada
 ![Prototipo de Selector](Imagenes/selector.jpg)
+
+## Demás Avances
+Además se hicieron distintos códigos para la prueba de estos nuevos avances y de los pasados, con esto tenemos que cada parte del proyecto funciona correctamente a excepción del carro ya que debemos retocar algunos detalles.
+
+Ahora debemos integrar todo en una sola "pieza", y hacer distintas pruebas para conseguir que funcione correctamente.
