@@ -34,7 +34,7 @@ En esta sección damos a entender que se cumplio con hacer mover la banda transp
 
 ## Avances Físicos
 Como nuevo avance, se realizo la pista para el carro:
-![Prototipo de pista](pista/banda.jpg)
+![Prototipo de pista](Imagenes/pista.jpg)
 
 - **Selección de monedas** Se implemento un servomotor que gira en dirección a cada cubiculo en funcion de la moneda detectada
-![Prototipo de Selector](selector/banda.jpg)
+![Prototipo de Selector](Imagenes/selector.jpg)
